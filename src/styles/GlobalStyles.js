@@ -37,6 +37,7 @@ export const GlobalStyles = createGlobalStyle`
    */
 
   body {
+    font-family: 'Roboto Mono', 'Arial', sans-serif;
     margin: 0;
   }
 
