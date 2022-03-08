@@ -1,3 +1,4 @@
 import { Home } from './Home';
+import { SingleBlog } from './SingleBlog';
 
-export { Home };
+export { Home, SingleBlog };
