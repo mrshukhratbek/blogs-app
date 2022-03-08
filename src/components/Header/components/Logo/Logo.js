@@ -6,7 +6,8 @@ import { style } from './Logo.style';
 //imgs
 import LogoImg from '@assets/img/logo.png';
 import LogoImg2x from '@assets/img/logo@2x.png';
-export function Logo(params) {
+
+export function Logo() {
   return (
     <Link style={style.a} to="/">
       <img
