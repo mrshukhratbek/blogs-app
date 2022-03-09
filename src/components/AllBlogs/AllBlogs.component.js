@@ -4,7 +4,7 @@ import { FlexWrapper } from '../Layouts/FlexWrapper';
 //antd components
 import { List } from 'antd';
 //components
-import { Blog } from '../Blog';
+import { Blog } from '@components';
 
 export function AllBlogs() {
   const listData = [

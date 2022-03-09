@@ -3,7 +3,8 @@
     "baseUrl": ".",
     "target": "es6",
     "paths": {
-      "@assets/*": ["./src/assets/*"]
+      "@assets/*": ["./src/assets/*"],
+      "@components/*": ["./src/components/*"]
     }
   },
   "exclude": ["node_modules"]
